@@ -15,7 +15,7 @@
 
 
 
-・pgyen463.zip  →  サイト閉鎖後に唯一DL出来ていた英語版  
-・pgypd463.exe  →  Peggy Pad (Free) Ver4.63  
-・pgyph463.exe  →  Peggy PHP? Ver4.63  
-・pgypr463.exe  →  Peggy Pro Ver4.63  
+* pgyen463.zip  →  サイト閉鎖後に唯一DL出来ていた英語版  
+* pgypd463.exe  →  Peggy Pad (Free) Ver4.63  
+* pgyph463.exe  →  Peggy PHP? Ver4.63  
+* pgypr463.exe  →  Peggy Pro Ver4.63  
